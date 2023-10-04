@@ -2,5 +2,9 @@
 
 Aqui fiz meu primeiro commit para versionamento.
 
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+Para confundir mas estou compreendendo você amigo Git.
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨75
+
 
 ****************************8
