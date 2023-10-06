@@ -1,7 +1,0 @@
-<html>
-<head><title>DESMISTIFICANDO O ENIGMA DO GIT</title></head>
-<body>
-    <h1> VC ESTÁ VENCENDO E SUBINDO A MONTANHA </h1>
-    <h1> A montanha não será o maior desafio em virtude de fé </h1>
-</body>
-</html>
